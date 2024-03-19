@@ -1,0 +1,1 @@
+These files are for use in the She Codes Plus CSV I/O lesson exercises. Download the files, drag them into VS Code, and let's write some code!
